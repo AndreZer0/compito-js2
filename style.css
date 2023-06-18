@@ -1,0 +1,45 @@
+.input {
+    text-align: center;
+}
+.input input{
+    border-radius: 25px;
+    height: 3em;
+    width: 14em;
+    margin-bottom: 3em;
+    background-color: rgb(247, 195, 247);
+    font-family: 'Carter One', cursive;
+    font-weight: 800;
+    font-size: large;
+
+}
+
+
+h1 {
+    font-size: em;
+    font-family: 'Carter One', cursive;
+    color: rgb(249, 245, 247);
+    text-shadow: 2px 2px #191616
+}
+h2{
+    font-family: 'Carter One', cursive;
+    
+}
+
+body {
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+ul {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  ul li{
+    font-size: 25px;
+    font-family: 'Carter One', cursive;
+    color: white;
+  }
+  
+
+  
